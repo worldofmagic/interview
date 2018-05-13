@@ -1,5 +1,7 @@
 # Summary
 
+## Core Java
+
 * [Introduction](README.md)
 * [String](chapter1.md)
 * [ArrayList](arraylist.md)
@@ -7,4 +9,8 @@
 * [Thread Pool and Connection Pool](thread-pool-and-connection-pool.md)
 * [Abstract Class and Interface](abstract-class-and-interface.md)
 * [Singleton](singleton.md)
+
+## Spring
+
+* [Spring Bean](spring-bean.md)
 
