@@ -6,8 +6,6 @@ A thread pool is a group of threads initially created that waits for jobs and ex
 
 ![](/assets/import.png)
 
-
-
 ## Connection Pools
 
 Creating a network connection to a database server is \(relatively\) expensive. Likewise asking the server to prepare a SQL statement is \(relatively\) expensive.
