@@ -4,4 +4,5 @@
 * [String](chapter1.md)
 * [ArrayList](arraylist.md)
 * [HashMap](hashmap.md)
+* [Thread Pool and Connection Pool](thread-pool-and-connection-pool.md)
 
