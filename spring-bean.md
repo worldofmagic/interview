@@ -2,7 +2,7 @@
 
 ## Bean Scope
 
-When you create a bean definition, you create a _recipe _for creating actual instances of the class defined by that bean definition. The idea that a bean definition is a recipe is important, because it means that, as with a class, you can create many object instances from a single recipe.
+When you create a bean definition, you create a \_recipe \_for creating actual instances of the class defined by that bean definition. The idea that a bean definition is a recipe is important, because it means that, as with a class, you can create many object instances from a single recipe.
 
 | Scope | Description |
 | :--- | :--- |
@@ -12,11 +12,11 @@ When you create a bean definition, you create a _recipe _for creating actual ins
 | Session | Scopes a single bean definition to the lifecycle of an HTTP Session. Only valid in the context of a web-aware Spring ApplicationContext. |
 | Global Session | Scopes a single bean definition to the lifecycle of a global HTTP Session. Typically only valid when used in a portlet context. Only valid in the context of a web-aware Spring ApplicationContext. |
 
-
-
 ## Bean Life cycle
 
-
-
 ![](/assets/bean life cycle.png)
+
+
+
+![](/assets/bean生命周期.png)![](/assets/bean生命周期2.png)
 
