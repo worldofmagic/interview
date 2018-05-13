@@ -1,3 +1,6 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [String](chapter1.md)
+* [ArrayList](arraylist.md)
+
